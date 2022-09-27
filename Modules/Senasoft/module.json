@@ -1,0 +1,13 @@
+{
+    "name": "Senasoft",
+    "alias": "senasoft",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Senasoft\\Providers\\SenasoftServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
